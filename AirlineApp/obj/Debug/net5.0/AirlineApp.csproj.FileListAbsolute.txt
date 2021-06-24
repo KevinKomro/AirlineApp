@@ -1,0 +1,16 @@
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.exe
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.deps.json
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.runtimeconfig.json
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.runtimeconfig.dev.json
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.dll
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\ref\AirlineApp.dll
+C:\nelnet-projects\AirlineApp\AirlineApp\bin\Debug\net5.0\AirlineApp.pdb
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.csproj.AssemblyReference.cache
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.AssemblyInfoInputs.cache
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.AssemblyInfo.cs
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.csproj.CoreCompileInputs.cache
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.dll
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\ref\AirlineApp.dll
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.pdb
+C:\nelnet-projects\AirlineApp\AirlineApp\obj\Debug\net5.0\AirlineApp.genruntimeconfig.cache
